@@ -27,7 +27,7 @@ Users should be able to:
 
 ![](res/sc1.png)
 ![](res/sc3.png)
-![](res/sc2.png)
+![](res/sc4.png)
 
 ### Links
 
